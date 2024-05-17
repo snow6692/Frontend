@@ -1,0 +1,11 @@
+.style {
+
+    color: var(--color-golden);
+    font-family: var(--font-base) !important;
+    font-size: 64px !important;
+    font-weight: 600 !important;
+    line-height: 83.2px !important;
+    letter-spacing: 0.03em !important;
+
+
+}
